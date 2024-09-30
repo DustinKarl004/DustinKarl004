@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... chix
 - 🌱 I’m currently learning ... how to win someone's heart. 
 - 💞️ I’m looking to collaborate on ... learning how to code.
-- 📫 How to reach me ... you can find me in Southville 8B.
+- 📫 How to reach me ... you can find me in World of Darkness.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Nothing much to share!
 
