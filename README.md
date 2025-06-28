@@ -39,6 +39,10 @@ Python (Pandas) | Google Apps Script
 Django | React | PostgreSQL | Thermal Printing  
 - Logistics management system with QR tracking  
 - Integrated thermal printer for ticket generation
+### Personal Portfolio Website  https://my-website-coral-beta.vercel.app/
+HTML | CSS | JavaScript
+- Fully responsive design  
+- Interactive animations and dark/light mode  
 ### Full-Stack Tutorial Site  https://full-stack-tutorial-gamma.vercel.app/
 Next.js | React | TypeScript | Nodemailer  
 - Markdown-powered blog system  
@@ -51,7 +55,7 @@ Django | Vue.js | PostgreSQL | Web Scraping
 ## 📫 Contact Me
 - Email: [karlabalos04@gmail.com](mailto:karlabalos04@gmail.com)  
 - LinkedIn: [Verify Soon]  
-- Portfolio: Coming Soon  
+- Portfolio:   
 
 ## ⚡ Beyond Code
 - Speedcubing enthusiast (Rubik's cube)  
