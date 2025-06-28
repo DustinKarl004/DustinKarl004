@@ -13,21 +13,36 @@ AWS (EC2)
 Git | GitHub
   
 ## 🚀 Featured Projects
+### Dental Clinic Management System
+PHP | SQL | Visual Basic
+- Patient records & appointment booking
 ### Hotel Reservation Management System
 PHP | SQL | HTML | CSS | JavaScript  
 - Developed a complete booking system with admin dashboard  
 ### Enhanced Admission System  
 HTML | CSS | Javascript | React Native | Firebase | Electron.js | RFID & QR Code  
 - Built cross-platform app for student admissions  
-- Integrated hardware authentication (RFID)  
+- Integrated hardware authentication (RFID)
+### Interactive Quiz
+HTML | CSS | JavaScript  
+- Dynamic quiz with score tracking  
+- Responsive UI with animations    
 ### Elevate Solutions Experts  
 Django | PostgreSQL | AWS | Bootstrap 5  
 - Full-stack business solution platform  
 - Deployed on AWS
+### BigQuery Data
+Python (Pandas) | Google Apps Script  
+- Automated data extraction/transformation using BigQuery
+- Integrated with Google Sheets for reporting 
 ### KCQ Express  
 Django | React | PostgreSQL | Thermal Printing  
 - Logistics management system with QR tracking  
-- Integrated thermal printer for ticket generation  
+- Integrated thermal printer for ticket generation
+### Full-Stack Tutorial Site  
+Next.js | React | TypeScript | Nodemailer  
+- Markdown-powered blog system  
+- Email subscription & contact forms    
 ### Jobzing App  
 Django | Vue.js | PostgreSQL | Web Scraping  
 - Job aggregator with BeautifulSoup/Selenium  
