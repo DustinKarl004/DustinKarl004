@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karl - Full Stack Developer
+# 👋 Hi, I'm Karl - Web Developer
 
 ## 💻 Tech Stack
 **Backend**  
@@ -6,7 +6,7 @@ Django | PHP | REST APIs | JavaScript (Node.js)
 **Database**  
 PostgreSQL | SQL | Firebase  
 **Frontend**  
-Vue.js | React.js | HTML5 | CSS3 | JavaScript (ES6+)  
+Vue.js | React.js | HTML5 | CSS3 | JavaScript (ES6+) | React Native  
 **DevOps**  
 AWS (EC2)  
 **Tools**  
