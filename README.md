@@ -2,11 +2,11 @@
 
 ## 💻 Tech Stack
 **Backend**  
-Django | PHP | REST APIs | JavaScript (Node.js)  
+Django | PHP | REST APIs | Node.js 
 **Database**  
 PostgreSQL | SQL | Firebase  
 **Frontend**  
-Vue.js | React.js | HTML5 | CSS3 | JavaScript (ES6+) | React Native  
+Vue.js | React.js | HTML | CSS | JavaScript | React Native  
 **DevOps**  
 AWS (EC2)  
 **Tools**  
@@ -36,7 +36,7 @@ Django | Vue.js | PostgreSQL | Web Scraping
 ## 📫 Contact Me
 - Email: [karlabalos04@gmail.com](mailto:karlabalos04@gmail.com)  
 - LinkedIn: [Verify Soon]  
-- Portfolio: Coming Q3 2024  
+- Portfolio: Coming Soon  
 
 ## ⚡ Beyond Code
 - Speedcubing enthusiast (Rubik's cube)  
