@@ -2,7 +2,7 @@
 
 ## 💻 Tech Stack
 **Backend**  
-Django | PHP | REST APIs | Node.js 
+Django | PHP | REST APIs | Node.js
 **Database**  
 PostgreSQL | SQL | Firebase  
 **Frontend**  
