@@ -23,11 +23,11 @@ PHP | SQL | HTML | CSS | JavaScript
 HTML | CSS | Javascript | React Native | Firebase | Electron.js | RFID & QR Code  
 - Built cross-platform app for student admissions  
 - Integrated hardware authentication (RFID)
-### Interactive Quiz
+### Interactive Quiz  https://interactive-quiz-xi.vercel.app/
 HTML | CSS | JavaScript  
 - Dynamic quiz with score tracking  
 - Responsive UI with animations    
-### Elevate Solutions Experts  
+### Elevate Solutions Experts  https://elevatesolutionsexperts.com/
 Django | PostgreSQL | AWS | Bootstrap 5  
 - Full-stack business solution platform  
 - Deployed on AWS
@@ -39,11 +39,11 @@ Python (Pandas) | Google Apps Script
 Django | React | PostgreSQL | Thermal Printing  
 - Logistics management system with QR tracking  
 - Integrated thermal printer for ticket generation
-### Full-Stack Tutorial Site  
+### Full-Stack Tutorial Site  https://full-stack-tutorial-gamma.vercel.app/
 Next.js | React | TypeScript | Nodemailer  
 - Markdown-powered blog system  
 - Email subscription & contact forms    
-### Jobzing App  
+### Jobzing App  https://jobzing.app/
 Django | Vue.js | PostgreSQL | Web Scraping  
 - Job aggregator with BeautifulSoup/Selenium  
 - AWS-hosted with daily data updates  
