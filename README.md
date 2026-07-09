@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:145A32,100:14213D&height=230&section=header&text=KARL.DEV&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%3C%20FULL%20STACK%20WEB%20DEVELOPER%20%2F%3E&descAlignY=62&descSize=17&descColor=CFEFE0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:145A32,100:14213D&height=230&section=header&text=KARL.DEV&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%2F%2F%20FULL%20STACK%20WEB%20DEVELOPER&descAlignY=62&descSize=17&descColor=CFEFE0" width="100%"/>
 
 <a href="https://dustinkarlabalos.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=FFFFFF&background=0A0A0AFF&center=true&vCenter=true&width=680&height=55&lines=%3E+booting+karl.dev...;%3E+stack%3A+django_+react_+vue_+node;%3E+status%3A+shipping_production_code;%3E+mode%3A+speedcuber.exe" alt="Typing SVG" />
