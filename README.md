@@ -1,82 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0aff9d,50:00f0ff,100:ff00ea&height=230&section=header&text=KARL.DEV&fontSize=70&fontColor=0a0a0a&animation=twinkling&fontAlignY=38&desc=%3C%20FULL%20STACK%20WEB%20DEVELOPER%20%2F%3E&descAlignY=62&descSize=18&descColor=0a0a0a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:145A32,100:14213D&height=230&section=header&text=KARL.DEV&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%3C%20FULL%20STACK%20WEB%20DEVELOPER%20%2F%3E&descAlignY=62&descSize=17&descColor=CFEFE0" width="100%"/>
 
 <a href="https://dustinkarlabalos.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=0AFF9D&background=0D1117CC&center=true&vCenter=true&width=650&height=50&lines=%3E+booting+karl.dev...;%3E+stack%3A+django_+react_+vue_+node;%3E+status%3A+shipping_production_code;%3E+mode%3A+speedcuber.exe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=FFFFFF&background=0A0A0AFF&center=true&vCenter=true&width=680&height=55&lines=%3E+booting+karl.dev...;%3E+stack%3A+django_+react_+vue_+node;%3E+status%3A+shipping_production_code;%3E+mode%3A+speedcuber.exe" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/⟢_PORTFOLIO-dustinkarlabalos.vercel.app-0AFF9D?style=for-the-badge&labelColor=0a0a0a)](https://dustinkarlabalos.vercel.app/)
-[![Email](https://img.shields.io/badge/⟢_EMAIL-karlabalos04@gmail.com-00F0FF?style=for-the-badge&labelColor=0a0a0a)](mailto:karlabalos04@gmail.com)
-[![GitHub](https://img.shields.io/badge/⟢_GITHUB-DustinKarl004-FF00EA?style=for-the-badge&labelColor=0a0a0a)](https://github.com/DustinKarl004)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-dustinkarlabalos.vercel.app-145A32?style=for-the-badge&labelColor=0A0A0A)](https://dustinkarlabalos.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-karlabalos04@gmail.com-14213D?style=for-the-badge&labelColor=0A0A0A)](mailto:karlabalos04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-DustinKarl004-145A32?style=for-the-badge&labelColor=0A0A0A)](https://github.com/DustinKarl004)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0aff9d,50:00f0ff,100:ff00ea&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:145A32,100:14213D&height=5&section=header" width="100%"/>
 
-## ⚡ TECH_STACK.exe
+## ⚡ Tech Stack
 
 <div align="center">
 
-[ BACKEND ]
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=45&section=header&text=BACKEND&fontSize=18&fontColor=CFEFE0&fontAlignY=55" width="100%"/>
 
+![Django](https://img.shields.io/badge/Django-145A32?style=for-the-badge&logo=django&logoColor=white&labelColor=0A0A0A)
+![PHP](https://img.shields.io/badge/PHP-145A32?style=for-the-badge&logo=php&logoColor=white&labelColor=0A0A0A)
+![Node.js](https://img.shields.io/badge/Node.js-145A32?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A0A0A)
+![Celery](https://img.shields.io/badge/Celery-145A32?style=for-the-badge&logo=celery&logoColor=white&labelColor=0A0A0A)
+![REST API](https://img.shields.io/badge/REST_API-145A32?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0A0A0A)
 
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=0AFF9D)
-![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=0AFF9D)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=0AFF9D)
-![Celery](https://img.shields.io/badge/Celery-0a0a0a?style=for-the-badge&logo=celery&logoColor=0AFF9D)
-![REST API](https://img.shields.io/badge/REST_API-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=0AFF9D)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=45&section=header&text=DATA&fontSize=18&fontColor=CFEFE0&fontAlignY=55" width="100%"/>
 
-[ DATA ]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14213D?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A)
+![Redis](https://img.shields.io/badge/Redis-14213D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0A0A0A)
+![Firebase](https://img.shields.io/badge/Firebase-14213D?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0A0A0A)
+![SQL](https://img.shields.io/badge/SQL-14213D?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A)
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=45&section=header&text=FRONTEND&fontSize=18&fontColor=CFEFE0&fontAlignY=55" width="100%"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00F0FF)
-![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=for-the-badge&logo=redis&logoColor=00F0FF)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=00F0FF)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00F0FF)
+![React](https://img.shields.io/badge/React-145A32?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A)
+![Vue.js](https://img.shields.io/badge/Vue.js-14213D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0A0A0A)
+![Next.js](https://img.shields.io/badge/Next.js-145A32?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0A0A0A)
+![React Native](https://img.shields.io/badge/React_Native-14213D?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-145A32?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
+![HTML5](https://img.shields.io/badge/HTML5-14213D?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
+![CSS3](https://img.shields.io/badge/CSS3-145A32?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 
-[ FRONTEND ]
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=45&section=header&text=DEVOPS%20%2F%20TOOLS&fontSize=18&fontColor=CFEFE0&fontAlignY=55" width="100%"/>
 
-
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=FF00EA)
-![Vue.js](https://img.shields.io/badge/Vue.js-0a0a0a?style=for-the-badge&logo=vue.js&logoColor=FF00EA)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=FF00EA)
-![React Native](https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=FF00EA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FF00EA)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=FF00EA)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=FF00EA)
-
-[ DEVOPS / TOOLS ]
-
-
-![AWS](https://img.shields.io/badge/AWS_EC2-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=0AFF9D)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00F0FF)
-![Stripe](https://img.shields.io/badge/Stripe-0a0a0a?style=for-the-badge&logo=stripe&logoColor=FF00EA)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=0AFF9D)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00F0FF)
+![AWS](https://img.shields.io/badge/AWS_EC2-14213D?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
+![Docker](https://img.shields.io/badge/Docker-145A32?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
+![Stripe](https://img.shields.io/badge/Stripe-14213D?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0A0A0A)
+![Git](https://img.shields.io/badge/Git-145A32?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
+![GitHub](https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0aff9d,50:00f0ff,100:ff00ea&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:145A32,100:14213D&height=5&section=header" width="100%"/>
 
-## 🛰️ FEATURED_BUILD
+## 🛰️ Featured Build
 
-<table>
-<tr><td>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,100:145A32&height=140&section=header&text=HealthMemo%20MVP&fontSize=30&fontColor=FFFFFF&desc=LIVE%20%E2%80%94%20STAGING&descAlignY=75&descSize=15&descColor=CFEFE0" width="100%"/>
 
-### 🩺 HealthMemo MVP `[ LIVE — STAGING ]`
 **Django · Vue.js 3 · Celery · Redis · PostgreSQL · AWS · Stripe · Docker**
 
 HIPAA-compliant medicolegal case management system. OCR document processing, async task queues, AWS S3 storage, Stripe billing, full multi-tenant admin dashboard — containerized with Docker.
 
 [`→ view live`](https://staging.healthmemo.com/auth/signin)
 
-</td></tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:145A32,100:14213D&height=5&section=header" width="100%"/>
 
-## 🚀 PROJECTS[ ]
+## 🚀 Projects
 
 <table>
 <tr>
@@ -166,7 +159,7 @@ HIPAA-compliant medicolegal case management system. OCR document processing, asy
 </tr>
 </table>
 
-## 🏢 INTERNSHIP · Elevate Solution Experts
+## 🏢 Internship · Elevate Solution Experts
 `Jan 27 – Apr 27, 2025 · 3 months`
 
 <table>
@@ -198,23 +191,23 @@ HIPAA-compliant medicolegal case management system. OCR document processing, asy
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0aff9d,50:00f0ff,100:ff00ea&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:145A32,100:14213D&height=5&section=header" width="100%"/>
 
-## 📡 CONNECT
+## 📡 Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/⟢_GMAIL-karlabalos04@gmail.com-0AFF9D?style=for-the-badge&labelColor=0a0a0a)](mailto:karlabalos04@gmail.com)
-[![Portfolio v2](https://img.shields.io/badge/⟢_PORTFOLIO_V2-dustinkarlabalos.vercel.app-00F0FF?style=for-the-badge&labelColor=0a0a0a)](https://dustinkarlabalos.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/⟢_LINKEDIN-verify_soon-FF00EA?style=for-the-badge&labelColor=0a0a0a)](#)
+[![Gmail](https://img.shields.io/badge/GMAIL-karlabalos04@gmail.com-145A32?style=for-the-badge&labelColor=0A0A0A)](mailto:karlabalos04@gmail.com)
+[![Portfolio v2](https://img.shields.io/badge/PORTFOLIO_V2-dustinkarlabalos.vercel.app-14213D?style=for-the-badge&labelColor=0A0A0A)](https://dustinkarlabalos.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-verify_soon-145A32?style=for-the-badge&labelColor=0A0A0A)](#)
 
 </div>
 
-## 🧩 SIDE_QUESTS
+## 🧩 Side Quests
 
 - ⚡ Speedcubing enthusiast — chasing sub-20 solves
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00ea,50:00f0ff,100:0aff9d&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,50:145A32,100:0A0A0A&height=140&section=footer" width="100%"/>
 
 <!---
 DustinKarl004/DustinKarl004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
